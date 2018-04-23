@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.vb" Inherits="BindWebReportToArrayList.Global" Language="vb" %>
