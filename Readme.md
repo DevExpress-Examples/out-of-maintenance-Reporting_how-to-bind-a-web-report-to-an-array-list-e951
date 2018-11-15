@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Class1.cs](./CS/Class1.cs) (VB: [Class1.vb](./VB/Class1.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [XtraReport1.cs](./CS/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/XtraReport1.vb))
+<!-- default file list end -->
 # How to bind a web report to an array list
 
 
