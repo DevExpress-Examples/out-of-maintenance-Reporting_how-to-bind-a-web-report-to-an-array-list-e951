@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to bind a web report to an array list
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e951)**
+**[[Run Online]](https://codecentral.devexpress.com/e951/)**
 <!-- run online end -->
 
 
